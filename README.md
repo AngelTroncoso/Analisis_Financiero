@@ -67,6 +67,6 @@ Este proyecto fue diseñado para correr en Jupyter Notebook. Asegúrate de tener
 - ✉️ Correo: [angeltroncoso2019@outlook.es](mailto:angeltroncoso2019@outlook.es)  
 - 🔗 LinkedIn: [linkedin.com/in/angeltroncoso](https://linkedin.com/in/angeltroncoso)  
 - 💻 GitHub: [github.com/angeltroncoso](https://github.com/angeltroncoso)  
-- 🐦 X (antes Twitter): [twitter.com/angeltroncoso](https://twitter.com/angeltroncoso)
+- 🐦 X (antes Twitter): [twitter.com/angeltroncoso](https://x.com/AngelTronc26452)
 
 ¿Preguntas, ideas o mejoras? No dudes en abrir un issue o enviarme un mensaje directo.
