@@ -1,4 +1,4 @@
-
+![Análisis de Propinas](https://scontent.fscl4-1.fna.fbcdn.net/o1/v/t0/f2/m340/AQOctUAkFxYB3OAWWb7gH56T6oyLcBNTTq0dVclc8wxOPr_NsbASWgMMt2269yDBSEZy4CIJFmD7ZW8aMv3Iu_Om5f-rx0yoQJn0MF97A2arLSVuJ33i88ONnl_nZF7Swfq0RR815ab5a0ofDPPxiEBiSQTLnw.jpeg?stp=s1440x1440&_nc_ht=scontent.fscl4-1.fna.fbcdn.net&_nc_gid=5BYIfxTrZ5yMyVgY5-YAhw&_nc_cat=109&_nc_oc=AdmQdpf3SUYf02yVX0LcxnQuopFxhdS2eRTLUl6f4J9sMih3jzg-wmA20O7K6SEOccI&ccb=9-4&oh=00_AfLr28zxENIxhCLXmmXy_xVIbCo7qgeMO9ZkPmj9GcMkkw&oe=68415144&_nc_sid=5b3566)
 
 # 📊 Análisis Financiero
 
